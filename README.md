@@ -13,3 +13,4 @@
 | `09` | Brevard County | [accela.com-v2-BREVARD](https://github.com/Emmanuel-Rods/accela.com-v2-BREVARD) | v2 |
 | `10` | Chatham County | [Chatham-county-v3](https://github.com/Emmanuel-Rods/Chatham-county-v3) | v3 |
 | `11` | Hilton Head County | [Hiltonhead-county-v3](https://github.com/Emmanuel-Rods/Hiltonhead-county-v3) | v3 |
+| `12` | Savannah County | [Savannah-county-v3](https://github.com/Emmanuel-Rods/Savannah-county-v3) | v3 |

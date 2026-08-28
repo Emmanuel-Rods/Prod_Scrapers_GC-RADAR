@@ -14,3 +14,4 @@
 | `10` | Chatham County | [Chatham-county-v3](https://github.com/Emmanuel-Rods/Chatham-county-v3) | v3 |
 | `11` | Hilton Head County | [Hiltonhead-county-v3](https://github.com/Emmanuel-Rods/Hiltonhead-county-v3) | v3 |
 | `12` | Savannah County | [Savannah-county-v3](https://github.com/Emmanuel-Rods/Savannah-county-v3) | v3 |
+| `13` | Bluffton County | [Bluffton-county-v3](https://github.com/Emmanuel-Rods/Bluffton-county-v3) | v3 |
